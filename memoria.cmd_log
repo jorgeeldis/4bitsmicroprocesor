@@ -1,0 +1,2 @@
+vhdtdtfi -lib work memoria.vhd -prj proyecto -o memoria.spl -module memoria -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 memoria.spl /home/manuel/Documentos/microprocesadores/proyecto/proyecto/memoria.sym 

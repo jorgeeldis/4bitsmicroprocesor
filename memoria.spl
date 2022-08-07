@@ -1,0 +1,5 @@
+[Inputs]
+=dic[3:0]=
+[Outputs]
+=sal[3:0]=
+[BiDir]
